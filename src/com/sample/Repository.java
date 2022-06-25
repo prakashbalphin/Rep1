@@ -11,11 +11,23 @@ public class Repository {
 
 		System.out.println("Ph No : 9489884048");
 	}
+	
+	
+	
 
 	public static void main(String[] args) {
 		
 		Repository re = new Repository();
 		re.empNum();
 		re.empDet();
+		
+		int a = 10;
+		String name = "prakash";
+		
+		System.out.println(a);
+		
+		System.out.println(name);
+		
+		
 	}
 }
